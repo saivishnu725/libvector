@@ -9,7 +9,11 @@ A small attempt to create a vector library in rust-lang.
 cd libvector
 cargo run
 ```
+## Usage
 
+```rust
+// Even I have no idea how it works so this space is blank now.
+```
 #
 
 ## License
